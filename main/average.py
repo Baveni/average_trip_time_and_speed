@@ -8,11 +8,7 @@ start_hour = int(input("enter starting hour>>"))
 start_minutes = int(input("enter starting minutes>>"))
 stop_hour = int(input("enter ending hour>>"))
 stop_minutes = int(input("enter ending minutes>>"))
-# trip_distance = 30
-# start_hour = 16
-# start_minutes = 35
-# stop_hour = 18
-# stop_minutes = 5
+
 
 # calculate time in hours
 diff_h = stop_hour - start_hour
