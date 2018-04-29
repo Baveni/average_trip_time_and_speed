@@ -23,4 +23,4 @@ avg_speed = trip_distance / time_in_hours
 
 # print time and speed
 print("You spend ", time_in_hours, " hours for the trip")
-print("Youre avg speed was ", avg_speed, "km/h")
+print("Your avg speed was ", avg_speed, "km/h")
